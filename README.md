@@ -11,4 +11,4 @@
 
 Screen View
 
-<img src="./src/assets/MVC-from.gif">
+<img src="./src/assets/mvc-form.gif">
