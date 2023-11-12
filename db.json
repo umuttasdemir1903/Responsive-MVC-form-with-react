@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Jhon",
+      "title": "React MVC Pattern",
+      "text": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "date": "2023-09-11T19:13:12.523Z"
+    },
+    {
+      "id": 2,
+      "user": "Dave",
+      "title": "Node.js Best Practices",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in justo vel quam fermentum consequat.",
+      "date": "2023-09-15T10:45:32.123Z"
+    },
+    {
+      "id": "dfbee7c3-4fff-44c6-9f0d-8d2ab7ac16ac",
+      "date": "2023-11-12T12:57:49.804Z",
+      "user": "user",
+      "title": "mvc",
+      "text": "test"
+    }
+  ]
+}
